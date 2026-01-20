@@ -13,7 +13,7 @@ This GitHub organization hosts repositories created by LISER researchers, postdo
 
 **General Repository Rules:**
 * By default, repositories are private and restricted to LISER members, allowing for experimentation and learning;
-* Contact Owners/Administrators (Adam, Terry, or Etienne) to make a private repository public if there is no sensitive data.
+* Contact Owner/Administrator (Julio Garbers) to make a private repository public if there is no sensitive data.
 
 **Action Steps for each LISER member:**
  1.	Add information to the Excel sheet about the datasets, methods, and software you've used, are using, or plan to use (Visit the [`Datasets_MethodsAndSoftwares`](https://github.com/Liser-Lu/Datasets_MethodsAndSoftwares) repository);
